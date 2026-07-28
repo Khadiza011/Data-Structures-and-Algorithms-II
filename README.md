@@ -4,6 +4,7 @@ This repository contains my implementations, laboratory exercises, and practice 
 
 ## Topics Covered
 
+- Vector
 - Minimum Spanning Tree (MST)
 - Shortest Path Algorithms
 - Divide and Conquer (D&C)
