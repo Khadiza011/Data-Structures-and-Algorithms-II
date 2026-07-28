@@ -26,7 +26,7 @@ Unlike Dynamic Programming, a greedy algorithm usually does not reconsider its p
 - Data compression
 - Network optimization
 - Resource allocation
-- 
+  
 ## Topics
 
 - Activity Selection
