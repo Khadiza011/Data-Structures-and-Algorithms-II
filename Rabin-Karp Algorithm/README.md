@@ -1,5 +1,3 @@
-# Rabin-Karp Algorithm
-
 # Rabin-Karp String Matching Algorithm (C++)
 
 ## Overview
