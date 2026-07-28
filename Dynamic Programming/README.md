@@ -29,13 +29,13 @@ Tabulation is a bottom-up approach.
 It solves smaller states first and stores the results in a table.
 
 ## Applications
-Optimization problems
-Sequence matching
-Pathfinding
-Resource allocation
-Scheduling
-String processing
-Competitive programming
+- Optimization problems
+- Sequence matching
+- Pathfinding
+- Resource allocation
+- Scheduling
+- String processing
+- Competitive programming
 
 ## Topics
 
