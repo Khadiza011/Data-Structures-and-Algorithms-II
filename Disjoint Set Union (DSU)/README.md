@@ -1,5 +1,3 @@
-# Disjoint Set Union (DSU)
-
 # Disjoint Set Union (Union-Find) using Path Compression and Union by Rank (C++)
 
 ## Overview
