@@ -17,9 +17,11 @@ Function and variable names should be relevant to the problem.
 ```text
 8
 22 15 30 10 18 12 14 25
+ ```
 
 ### Sample Output
 
 ```text
 First two waiting times in the report:
 10 12
+```
