@@ -17,6 +17,15 @@ Given the heights of `N` students, select `M` students such that the difference 
 - Select the minimum difference.
 
 ---
+## Example Input
+
+7 3
+
+10 100 300 200 1000 20 30
+
+## Output
+
+20
 
 ## Complexity Analysis
 
