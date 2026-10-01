@@ -109,12 +109,16 @@ This stores the minimum cost required to reach a specific node at a specific tim
 
 # Example Input
 5 6
+
+
 0 1 10 5
 0 2 5 2
 1 3 2 3
 2 3 4 4
 3 4 3 2
 1 4 20 8
+
+
 0
 4
 10
