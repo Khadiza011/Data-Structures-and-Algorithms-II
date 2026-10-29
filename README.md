@@ -19,7 +19,7 @@ This repository contains my C++ implementations, laboratory exercises, algorithm
 - Practice Problems
 - Algorithm Implementation and Analysis
 
-## 🛠️ Development Environment
+## Development Environment
 
 - **IDE:** Code::Blocks
 - **Language:** C++
