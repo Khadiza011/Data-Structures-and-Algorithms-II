@@ -15,10 +15,8 @@ This repository contains my C++ implementations, laboratory exercises, algorithm
 - Disjoint Set Union (DSU)
 - Hash Table
 - Rabin-Karp Algorithm
-- Laboratory Exercises
 - Practice Problems
-- Algorithm Implementation and Analysis
-
+  
 ## Development Environment
 
 - **IDE:** Code::Blocks
